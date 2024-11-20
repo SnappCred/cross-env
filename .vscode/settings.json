@@ -1,0 +1,31 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editor.chatSession": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "repl": true,
+        "workbench.editors.gettingStartedInput": true,
+        "jupyter-notebook": true,
+        "robotframework-repl": true,
+        "calva-clojure-notebook": true,
+        "imagePreview.previewEditor": true,
+        "vscode.audioPreview": true,
+        "vscode.videoPreview": true,
+        "jsProfileVisualizer.cpuprofile.table": true,
+        "jsProfileVisualizer.heapsnapshot.table": true,
+        "phpprofiler.cachegrind": true,
+        "threatComposer.tc.json": true,
+        "gitlens.rebase": true,
+        "al.designer": true,
+        "al.settings": true,
+        "mainThreadWebview-markdown.preview": true,
+        "workbench.input.interactive": true,
+        "java.formatterSettingsEditor": true,
+        "decompiled.javaClass": true,
+        "alProfileVisualizer.topDown": true,
+        "mssql.executionPlanView": true,
+        "pdf.preview": true,
+        "alProfileVisualizer.bottomUp": true
+    },
+    "dbt.enableNewLineagePanel": true
+}
